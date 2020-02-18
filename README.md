@@ -1,0 +1,2 @@
+# paperless-gui
+front
